@@ -14,6 +14,7 @@ iOS 8 in Swift, Stanford - https://itunes.apple.com/us/course/developing-ios-8-a
 #Blogs
 
 Apple's Swift Blog - https://developer.apple.com/swift/blog/
+Wooji Juice - http://www.wooji-juice.com/blog/stupid-swift-tricks-1.html (Has several Stupid Swift Tricks posts)
 
 #SDKs
 
