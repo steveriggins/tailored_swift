@@ -18,6 +18,8 @@ Wooji Juice - http://www.wooji-juice.com/blog/stupid-swift-tricks-1.html (Has se
 
 #SDKs
 
+Walmart is building Swift based frameworks: https://github.com/TheHolyGrail
+
 # Other
 
 A Swift Style Guilde - https://github.com/github/swift-style-guide
