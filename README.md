@@ -22,3 +22,5 @@ Wooji Juice - http://www.wooji-juice.com/blog/stupid-swift-tricks-1.html (Has se
 
 A Swift Style Guilde - https://github.com/github/swift-style-guide
 
+The Holy Grail's "Dennis" speaks on Singleton patterns: https://github.com/TheHolyGrail/Dennis/issues/1
+
