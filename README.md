@@ -16,6 +16,10 @@ iOS 8 in Swift, Stanford - https://itunes.apple.com/us/course/developing-ios-8-a
 Apple's Swift Blog - https://developer.apple.com/swift/blog/
 Wooji Juice - http://www.wooji-juice.com/blog/stupid-swift-tricks-1.html (Has several Stupid Swift Tricks posts)
 
+#Articles
+
+NSHipster on Collection protocols: http://nshipster.com/swift-collection-protocols/
+
 #SDKs
 
 Walmart is building Swift based frameworks: https://github.com/TheHolyGrail
@@ -25,4 +29,3 @@ Walmart is building Swift based frameworks: https://github.com/TheHolyGrail
 A Swift Style Guilde - https://github.com/github/swift-style-guide
 
 The Holy Grail's "Dennis" speaks on Singleton patterns: https://github.com/TheHolyGrail/Dennis/issues/1
-
