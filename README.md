@@ -18,6 +18,8 @@ iOS 8 in Swift, Stanford: https://itunes.apple.com/us/course/developing-ios-8-ap
 #Articles
 
 * Wooji Juice Stupid Swift Tricks 1: http://www.wooji-juice.com/blog/stupid-swift-tricks-1.html (Has several Stupid Swift Tricks posts)
+* Wooji Juice Stupid Swift Tricks 2, Coalescing Updates: http://www.wooji-juice.com/blog/stupid-swift-tricks-2.html
+* Wooji Juice Stupid Swift Tricks 3, Value Types: http://www.wooji-juice.com/blog/stupid-swift-tricks-3.html
 * NSHipster on Collection protocols: http://nshipster.com/swift-collection-protocols/
 * Swift 1.2 Update (Xcode 6.3 beta 2) - Performance: http://blog.human-friendly.com/swift-1-dot-2-update-xcode-6-dot-3-beta-2-performance
 
