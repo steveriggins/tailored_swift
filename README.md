@@ -13,13 +13,13 @@ iOS 8 in Swift, Stanford - https://itunes.apple.com/us/course/developing-ios-8-a
 
 #Blogs
 
-Apple's Swift Blog - https://developer.apple.com/swift/blog/
-Wooji Juice - http://www.wooji-juice.com/blog/stupid-swift-tricks-1.html (Has several Stupid Swift Tricks posts)
+* Apple's Swift Blog - https://developer.apple.com/swift/blog/
+* Wooji Juice - http://www.wooji-juice.com/blog/stupid-swift-tricks-1.html (Has several Stupid Swift Tricks posts)
 
 #Articles
 
-NSHipster on Collection protocols: http://nshipster.com/swift-collection-protocols/
-Swift 1.2 Update (Xcode 6.3 beta 2) - Performance - http://blog.human-friendly.com/swift-1-dot-2-update-xcode-6-dot-3-beta-2-performance
+* NSHipster on Collection protocols: http://nshipster.com/swift-collection-protocols/
+* Swift 1.2 Update (Xcode 6.3 beta 2) - Performance - http://blog.human-friendly.com/swift-1-dot-2-update-xcode-6-dot-3-beta-2-performance
 
 #SDKs
 
