@@ -13,7 +13,8 @@ iOS 8 in Swift, Stanford: https://itunes.apple.com/us/course/developing-ios-8-ap
 
 #Blogs
 
-* Apple's Swift Blog - https://developer.apple.com/swift/blog/
+* Apple's Swift Blog: https://developer.apple.com/swift/blog/
+* Fig - iOS with a lot of Swift articles: http://www.figure.ink
 
 #Articles
 
