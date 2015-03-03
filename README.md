@@ -25,6 +25,7 @@ iOS 8 in Swift, Stanford: https://itunes.apple.com/us/course/developing-ios-8-ap
 * NSHipster on Collection protocols: http://nshipster.com/swift-collection-protocols/
 * Swift 1.2 Update (Xcode 6.3 beta 2) - Performance: http://blog.human-friendly.com/swift-1-dot-2-update-xcode-6-dot-3-beta-2-performance
 * Xcode 6.3b2 and Swift 1.2 changes, Jameson Quave: http://jamesonquave.com/blog/swift-1-2-the-best-update-yet/
+* Integer Madness: http://blog.krzyzanowskim.com/2015/03/01/swift_madness_of_generic_integer/
 
 #SDKs
 
