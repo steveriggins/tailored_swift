@@ -28,6 +28,7 @@ iOS 8 in Swift, Stanford: https://itunes.apple.com/us/course/developing-ios-8-ap
 * Xcode 6.3b2 and Swift 1.2 changes, Jameson Quave: http://jamesonquave.com/blog/swift-1-2-the-best-update-yet/
 * Integer Madness: http://blog.krzyzanowskim.com/2015/03/01/swift_madness_of_generic_integer/
 * Safer Swift code with value types - https://www.makeschool.com/tutorials/safer-swift-code-with-value-types
+* Background Modes - http://www.raywenderlich.com/92428/background-modes-ios-swift-tutorial
 
 #SDKs
 
