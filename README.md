@@ -17,6 +17,7 @@ iOS 8 in Swift, Stanford: https://itunes.apple.com/us/course/developing-ios-8-ap
 * Fig - iOS with a lot of Swift articles: http://www.figure.ink
 * Steve Cotner's curated Swift blog: http://swiftpla.net/
 * Swift Doc - Auto-generated docs: http://swiftdoc.org
+* This Week in Swift - https://swiftnews.curated.co
 
 #Articles
 
