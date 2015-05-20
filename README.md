@@ -34,7 +34,8 @@ iOS 8 in Swift, Stanford: https://itunes.apple.com/us/course/developing-ios-8-ap
 
 #SDKs
 
-Walmart is building Swift based frameworks: https://github.com/TheHolyGrail
+* Walmart is building Swift based frameworks: https://github.com/TheHolyGrail
+* SwiftLint, An experimental tool to enforce Swift style and conventions, loosely based on GitHub's Swift Style Guide - https://github.com/realm/SwiftLint
 
 # Other
 
