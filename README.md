@@ -21,6 +21,9 @@ iOS 8 in Swift, Stanford: https://itunes.apple.com/us/course/developing-ios-8-ap
 
 #Articles
 
+* Swift Error Handling: http://www.sunsetlakesoftware.com/2015/06/12/swift-2-error-handling-practice
+
+### Older Swift 1 Articles
 * Wooji Juice Stupid Swift Tricks 1: http://www.wooji-juice.com/blog/stupid-swift-tricks-1.html (Has several Stupid Swift Tricks posts)
 * Wooji Juice Stupid Swift Tricks 2, Coalescing Updates: http://www.wooji-juice.com/blog/stupid-swift-tricks-2.html
 * Wooji Juice Stupid Swift Tricks 3, Value Types: http://www.wooji-juice.com/blog/stupid-swift-tricks-3.html
