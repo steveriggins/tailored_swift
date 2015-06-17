@@ -23,6 +23,7 @@ iOS 8 in Swift, Stanford: https://itunes.apple.com/us/course/developing-ios-8-ap
 #Articles
 
 * Swift Error Handling: http://www.sunsetlakesoftware.com/2015/06/12/swift-2-error-handling-practice
+* Throw What Don't Throw: http://robnapier.net/throw-what-dont-throw
 
 ### Older Swift 1 Articles
 * Wooji Juice Stupid Swift Tricks 1: http://www.wooji-juice.com/blog/stupid-swift-tricks-1.html (Has several Stupid Swift Tricks posts)
