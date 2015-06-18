@@ -9,6 +9,7 @@ Functional Programming in Swift: http://www.objc.io/books/
 
 # Courses / Training
 
+Apple's Swift Education: http://swifteducation.github.io
 iOS 8 in Swift, Stanford: https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099
 
 #Blogs
