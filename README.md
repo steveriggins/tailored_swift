@@ -16,7 +16,6 @@ Functional Programming in Swift: http://www.objc.io/books/
 
 * Apple's Swift Blog: https://developer.apple.com/swift/blog/
 * Fig: iOS with a lot of Swift articles: http://www.figure.ink
-* Steve Cotner's curated Swift blog: http://swiftpla.net/
 * Swift Doc: Auto-generated docs: http://swiftdoc.org
 * This Week in Swift: https://swiftnews.curated.co
 * Natasha The Robot: http://natashatherobot.com
