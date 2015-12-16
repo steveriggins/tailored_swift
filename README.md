@@ -26,6 +26,7 @@ Functional Programming in Swift - http://www.objc.io/books/
 * Swift Error Handling - http://www.sunsetlakesoftware.com/2015/06/12/swift-2-error-handling-practice
 * Throw What Don't Throw - http://robnapier.net/throw-what-dont-throw
 * Avoiding segmentation fault 11 in Xcode 7 with StringLiteralConvertible - http://www.steveriggins.net/2015/10/11/avoiding-segmentation-fault-11-in-xcode-7-with-stringliteralconvertible/
+* Swift Optionals, Functional Programming, and You - http://www.mokacoding.com/blog/demistifying-swift-functor/
 
 ### Older Swift 1 Articles
 * Wooji Juice Stupid Swift Tricks 1 - http://www.wooji-juice.com/blog/stupid-swift-tricks-1.html (Has several Stupid Swift Tricks posts)
