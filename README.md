@@ -12,6 +12,10 @@ Functional Programming in Swift - http://www.objc.io/books/
 * Apple's Swift Education - http://swifteducation.github.io
 * iOS 8 in Swift, Stanford - https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099
 
+# Frameworks / Libraries / SDKs
+
+* SwiftSequence - https://github.com/oisdk/SwiftSequence
+
 #Blogs
 
 * Apple's Swift Blog - https://developer.apple.com/swift/blog/
