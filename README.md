@@ -14,6 +14,8 @@ Functional Programming in Swift - http://www.objc.io/books/
 
 # Frameworks / Libraries / SDKs
 
+* Walmart is building Swift based frameworks - https://github.com/TheHolyGrail
+* SwiftLint, An experimental tool to enforce Swift style and conventions, loosely based on GitHub's Swift Style Guide - https://github.com/realm/SwiftLint
 * SwiftSequence - https://github.com/oisdk/SwiftSequence
 
 #Blogs
@@ -44,13 +46,9 @@ Functional Programming in Swift - http://www.objc.io/books/
 * Background Modes - http://www.raywenderlich.com/92428/background-modes-ios-swift-tutorial
 * Associated Types - http://www.russbishop.net/swift-associated-types
 
-#SDKs
-
-* Walmart is building Swift based frameworks - https://github.com/TheHolyGrail
-* SwiftLint, An experimental tool to enforce Swift style and conventions, loosely based on GitHub's Swift Style Guide - https://github.com/realm/SwiftLint
 
 # Other
 
-A Swift Style Guilde - https://github.com/github/swift-style-guide
+A Swift Style Guide - https://github.com/github/swift-style-guide
 
 The Holy Grail's "Dennis" speaks on Singleton patterns - https://github.com/TheHolyGrail/Dennis/issues/1
