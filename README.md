@@ -33,11 +33,10 @@ Functional Programming in Swift - http://www.objc.io/books/
 
 # Frameworks / Libraries / SDKs
 
-* Walmart is building Swift based frameworks - https://github.com/TheHolyGrail
 * SwiftLint, An experimental tool to enforce Swift style and conventions, loosely based on GitHub's Swift Style Guide - https://github.com/realm/SwiftLint
 * SwiftSequence - https://github.com/oisdk/SwiftSequence
 
-#Blogs
+# Blogs
 
 * Apple's Swift Blog - https://developer.apple.com/swift/blog/
 * Fig - iOS with a lot of Swift articles: http://www.figure.ink
@@ -46,7 +45,7 @@ Functional Programming in Swift - http://www.objc.io/books/
 * Natasha The Robot - http://natashatherobot.com
 * Steve's Thoughts - http://www.steveriggins.net
 
-#Articles
+# Articles
 
 * Swift Error Handling - http://www.sunsetlakesoftware.com/2015/06/12/swift-2-error-handling-practice
 * Throw What Don't Throw - http://robnapier.net/throw-what-dont-throw
