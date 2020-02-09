@@ -12,6 +12,7 @@ A repository of Swift related information
   * https://www.pointfree.co/episodes/ep65-swiftui-and-state-management-part-3
 * SwiftUI Notes - https://github.com/heckj/swiftui-notes
 * Sarun's SwiftUI posts - https://sarunw.com/tags/swiftui/
+* Chris Eidorf's BA: Switftable talk on how layout works - https://www.youtube.com/watch?v=GuK6wwX8M0E&t=1357s
 
 # Books
 
