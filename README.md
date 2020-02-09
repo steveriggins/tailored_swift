@@ -15,6 +15,10 @@ A repository of Swift related information
 * Sarun's SwiftUI posts - https://sarunw.com/tags/swiftui/
 * Chris Eidorf's BA: Switftable talk on how layout works - https://www.youtube.com/watch?v=GuK6wwX8M0E&t=1357s
 * Timelane, a not yet released profiler - http://timelane.tools
+* Data Structures and Algorithms in Swift - https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift
+* Server Side Swift: Vapor Edition - https://books.apple.com/us/book/server-side-swift-vapor-edition/id1389763820
+* SwiftUI Animations: https://www.bigmountainstudio.com/swiftui-animations
+* SwiftUI Views: https://www.bigmountainstudio.com/swiftui-views-book
 
 # Books
 
