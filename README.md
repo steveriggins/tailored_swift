@@ -11,6 +11,7 @@ A repository of Swift related information
   * https://www.pointfree.co/episodes/ep65-swiftui-and-state-management-part-2
   * https://www.pointfree.co/episodes/ep65-swiftui-and-state-management-part-3
 * SwiftUI Notes - https://github.com/heckj/swiftui-notes
+* Using Combine - https://heckj.github.io/swiftui-notes/
 * Sarun's SwiftUI posts - https://sarunw.com/tags/swiftui/
 * Chris Eidorf's BA: Switftable talk on how layout works - https://www.youtube.com/watch?v=GuK6wwX8M0E&t=1357s
 * Timelane, a not yet released profiler - http://timelane.tools
