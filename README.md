@@ -1,6 +1,18 @@
 # Tailored Swift
 A repository of Swift related information
 
+# SwiftUI
+
+* Chris Eidorg's view mirror - https://gist.github.com/chriseidhof/d23f82f8a9e85e75bc02be220326199a
+* Animation example - https://sarunw.com/posts/swiftui-animation/
+* Fucking SwiftUI syntax cheat sheet - https://fuckingswiftui.com
+* Point•Free free episodes
+  * https://www.pointfree.co/episodes/ep65-swiftui-and-state-management-part-1
+  * https://www.pointfree.co/episodes/ep65-swiftui-and-state-management-part-2
+  * https://www.pointfree.co/episodes/ep65-swiftui-and-state-management-part-3
+* SwiftUI Notes - https://github.com/heckj/swiftui-notes
+* Sarun's SwiftUI posts - https://sarunw.com/tags/swiftui/
+
 # Books
 
 A Swift Kickstart - https://itunes.apple.com/us/book/a-swift-kickstart/id891801923?mt=11
