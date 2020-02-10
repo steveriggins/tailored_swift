@@ -11,20 +11,30 @@ A repository of Swift related information
   * https://www.pointfree.co/episodes/ep65-swiftui-and-state-management-part-2
   * https://www.pointfree.co/episodes/ep65-swiftui-and-state-management-part-3
 * SwiftUI Notes - https://github.com/heckj/swiftui-notes
-* Using Combine - https://heckj.github.io/swiftui-notes/
 * Sarun's SwiftUI posts - https://sarunw.com/tags/swiftui/
 * Chris Eidorf's BA: Switftable talk on how layout works - https://www.youtube.com/watch?v=GuK6wwX8M0E&t=1357s
 * Timelane, a not yet released profiler - http://timelane.tools
-* Data Structures and Algorithms in Swift - https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift
-* Server Side Swift: Vapor Edition - https://books.apple.com/us/book/server-side-swift-vapor-edition/id1389763820
+
+# SwiftUI Books
+
+* Using Combine - https://heckj.github.io/swiftui-notes/
 * SwiftUI Animations: https://www.bigmountainstudio.com/swiftui-animations
 * SwiftUI Views: https://www.bigmountainstudio.com/swiftui-views-book
 
-# Books
+# Swift
 
-A Swift Kickstart - https://itunes.apple.com/us/book/a-swift-kickstart/id891801923?mt=11
+* Exploring Swift 5.2's new functional features - https://www.swiftbysundell.com/articles/exploring-swift-5-2s-new-functional-features/
+* Swift Error Handling - http://www.sunsetlakesoftware.com/2015/06/12/swift-2-error-handling-practice
+* Throw What Don't Throw - http://robnapier.net/throw-what-dont-throw
+* Avoiding segmentation fault 11 in Xcode 7 with StringLiteralConvertible - http://www.steveriggins.net/2015/10/11/avoiding-segmentation-fault-11-in-xcode-7-with-stringliteralconvertible/
+* Swift Optionals, Functional Programming, and You - http://www.mokacoding.com/blog/demistifying-swift-functor/
 
-Functional Programming in Swift - http://www.objc.io/books/
+# Swift Books
+
+* Server Side Swift: Vapor Edition - https://books.apple.com/us/book/server-side-swift-vapor-edition/id1389763820
+* Data Structures and Algorithms in Swift - https://store.raywenderlich.com/products/data-structures-and-algorithms-in-swift
+* A Swift Kickstart - https://itunes.apple.com/us/book/a-swift-kickstart/id891801923?mt=11
+* Functional Programming in Swift - http://www.objc.io/books/
 
 # Courses / Training
 
@@ -45,13 +55,6 @@ Functional Programming in Swift - http://www.objc.io/books/
 * Natasha The Robot - http://natashatherobot.com
 * Steve's Thoughts - http://www.steveriggins.net
 
-# Articles
-
-* Swift Error Handling - http://www.sunsetlakesoftware.com/2015/06/12/swift-2-error-handling-practice
-* Throw What Don't Throw - http://robnapier.net/throw-what-dont-throw
-* Avoiding segmentation fault 11 in Xcode 7 with StringLiteralConvertible - http://www.steveriggins.net/2015/10/11/avoiding-segmentation-fault-11-in-xcode-7-with-stringliteralconvertible/
-* Swift Optionals, Functional Programming, and You - http://www.mokacoding.com/blog/demistifying-swift-functor/
-
 ### Older Swift 1 Articles
 * Wooji Juice Stupid Swift Tricks 1 - http://www.wooji-juice.com/blog/stupid-swift-tricks-1.html (Has several Stupid Swift Tricks posts)
 * Wooji Juice Stupid Swift Tricks 2, Coalescing Updates - http://www.wooji-juice.com/blog/stupid-swift-tricks-2.html
@@ -64,9 +67,7 @@ Functional Programming in Swift - http://www.objc.io/books/
 * Background Modes - http://www.raywenderlich.com/92428/background-modes-ios-swift-tutorial
 * Associated Types - http://www.russbishop.net/swift-associated-types
 
-
 # Other
 
 A Swift Style Guide - https://github.com/github/swift-style-guide
-
 The Holy Grail's "Dennis" speaks on Singleton patterns - https://github.com/TheHolyGrail/Dennis/issues/1
