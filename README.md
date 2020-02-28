@@ -54,6 +54,7 @@ A repository of Swift related information
 
 # Xcode
 
+* Xcode Build Settings - https://xcodebuildsettings.com/
 * Diabling PasteBoardAutomaticSync for performance reasons - https://twitter.com/steipete/status/1227551827362828288?s=21
 * Testing push notifications in Xcode 11.4 - https://www.donnywals.com/testing-push-notifications-in-the-simulator-with-xcode-11-4/
 
