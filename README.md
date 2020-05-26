@@ -23,6 +23,7 @@ A repository of Swift related information
 
 # Combine
 
+* Donny Wals Publishers and Subscribers - https://www.donnywals.com/understanding-combines-publishers-and-subscribers/
 * tryCombine - http://trycombine.com
 * Donny Wals talk - https://www.dotconferences.com/2020/02/donny-wals-the-combine-triad
 * Using Combine - https://heckj.github.io/swiftui-notes/
