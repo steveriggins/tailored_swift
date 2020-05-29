@@ -3,6 +3,7 @@ A repository of Swift related information
 
 # SwiftUI
 
+* How function builders work - https://harshil.net/blog/swiftui-dsl-function-builders
 * Clean Architecture for SwiftUI - https://medium.com/swlh/clean-architecture-for-swiftui-6d6c4eb1cf6a
 * Chris Eidorg's view mirror - https://gist.github.com/chriseidhof/d23f82f8a9e85e75bc02be220326199a
 * Animation example - https://sarunw.com/posts/swiftui-animation/
