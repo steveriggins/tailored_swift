@@ -3,6 +3,7 @@ A repository of Swift related information
 
 # SwiftUI
 
+* SwiftUI Property Wrappers - https://swiftuipropertywrappers.com
 * How function builders work - https://harshil.net/blog/swiftui-dsl-function-builders
 * Clean Architecture for SwiftUI - https://medium.com/swlh/clean-architecture-for-swiftui-6d6c4eb1cf6a
 * Chris Eidorg's view mirror - https://gist.github.com/chriseidhof/d23f82f8a9e85e75bc02be220326199a
@@ -14,7 +15,7 @@ A repository of Swift related information
   * https://www.pointfree.co/episodes/ep65-swiftui-and-state-management-part-3
 * SwiftUI Notes - https://github.com/heckj/swiftui-notes
 * Sarun's SwiftUI posts - https://sarunw.com/tags/swiftui/
-* Chris Eidorf's BA: Switftable talk on how layout works - https://www.youtube.com/watch?v=GuK6wwX8M0E&t=1357s
+* Chris Eidhof's BA: Switftable talk on how layout works - https://www.youtube.com/watch?v=GuK6wwX8M0E
 * Timelane, a not yet released profiler - http://timelane.tools
 
 # SwiftUI Books
