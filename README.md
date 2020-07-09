@@ -16,7 +16,6 @@ A repository of Swift related information
 * SwiftUI Notes - https://github.com/heckj/swiftui-notes
 * Sarun's SwiftUI posts - https://sarunw.com/tags/swiftui/
 * Chris Eidhof's BA: Switftable talk on how layout works - https://www.youtube.com/watch?v=GuK6wwX8M0E
-* Timelane, a not yet released profiler - http://timelane.tools
 
 # SwiftUI Books
 
