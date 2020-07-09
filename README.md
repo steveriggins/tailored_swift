@@ -29,6 +29,12 @@ A repository of Swift related information
 * tryCombine - http://trycombine.com
 * Donny Wals talk - https://www.dotconferences.com/2020/02/donny-wals-the-combine-triad
 * Using Combine - https://heckj.github.io/swiftui-notes/
+* Timelane debugging tool - http://timelane.tools
+* Ultimate Combine Tutorial - https://theswiftdev.com/the-ultimate-combine-framework-tutorial-in-swift/
+* Cutom Combine Publisher to Extend UIKit - https://www.avanderlee.com/swift/custom-combine-publisher/
+* Getting started with Combine - https://www.avanderlee.com/swift/combine/
+* Problem solving with Combine - https://medium.com/flawless-app-stories/problem-solving-with-combine-swift-4751885fda77
+* Deep Dive into Combine - https://medium.com/better-programming/a-deep-dive-into-the-combine-framework-in-swift-cffdfcc6f32c
 
 # Swift
 
