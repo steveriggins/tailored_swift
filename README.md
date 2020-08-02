@@ -3,6 +3,7 @@ A repository of Swift related information
 
 # SwiftUI
 
+* The magic of view preferences in SwiftUI - https://swiftwithmajid.com/2020/01/15/the-magic-of-view-preferences-in-swiftui/
 * SwiftUI Property Wrappers - https://swiftuipropertywrappers.com
 * How function builders work - https://harshil.net/blog/swiftui-dsl-function-builders
 * Clean Architecture for SwiftUI - https://medium.com/swlh/clean-architecture-for-swiftui-6d6c4eb1cf6a
